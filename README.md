@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bibekghosh1
+- 👋 Hi, I’m @bibekghoshh
 - 👀 I’m interested in Software Development and How the things internally works...
 - 🌱 I’m currently pursuing MCA
 - 💞️ I’m looking to become Software development engineer 
